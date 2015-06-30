@@ -1,4 +1,4 @@
-# attiny
+# attiny13
 ATtiny13 microcontroller support for the Arduino software (http://arduino.cc). For Arduino 1.6.x.
 
 To install:
