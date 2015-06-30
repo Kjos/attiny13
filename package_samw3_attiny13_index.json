@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "name": "attiny",
+      "name": "attiny13",
       "maintainer": "Sam Washburn",
-      "websiteURL": "https://github.com/samw3/attiny",
+      "websiteURL": "https://github.com/samw3/attiny13",
       "email": "",
       "help": {
         "online": ""
