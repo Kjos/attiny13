@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/samw3/attiny13/blob/master/attiny13.zip?raw=true",
           "archiveFileName": "attiny13.zip",
-          "checksum": "SHA-256:321febd361ffd59001971c00de95281096edf8431945dcd421b2a286977022dc",
+          "checksum": "SHA-256:0009df91d04559e5fe48abc0118a2c2bf949d8c2e91ea463f186d2bc0612399a",
           "size": "2711",
           "boards": [
             {"name": "ATtiny13"}
