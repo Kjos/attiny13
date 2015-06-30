@@ -1,8 +1,11 @@
 # attiny
-ATtiny microcontroller support for the Arduino software (http://arduino.cc). Includes the ATtiny45/85 and the ATtiny44/84.
+ATtiny13 microcontroller support for the Arduino software (http://arduino.cc). For Arduino 1.6.x.
 
-For Arduino 1.0.x, use the ide-1.0.x branch: https://github.com/damellis/attiny/tree/ide-1.0.x
+To install:
 
-For Arduino 1.6.x, use the ide-1.6.x branch: https://github.com/damellis/attiny/tree/ide-1.6.x
-
-Tutorial here: http://highlowtech.org/?p=1695
+* Open Arduino
+* Go To Preferences
+* Add https://github.com/samw3/attiny13/blob/master/package_samw3_attiny13_index.json to "Additional Boards Manager URLs"
+* Select: Tools -> Board -> Board Manager...
+* Find attiny13 in the list
+* Highlight and click Install
