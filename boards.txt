@@ -1,0 +1,14 @@
+attiny13.name=ATtiny13
+attiny13.bootloader.tool=arduino:avrdude
+attiny13.bootloader.low_fuses=0x7a
+attiny13.bootloader.high_fuses=0xff
+attiny13.bootloader.extended_fuses=0xff
+attiny13.bootloader.unlock_bits=0xff
+attiny13.bootloader.lock_bits=0xff
+attiny13.build.core=arduino:arduino
+attiny13.build.board=attiny13
+attiny13.build.mcu=attiny13
+attiny13.build.variant=tiny8
+attiny13.build.f_cpu=1000000L
+attiny13.upload.tool=arduino:avrdude
+attiny13.upload.maximum_size=1024

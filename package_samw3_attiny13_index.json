@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "attiny",
+      "maintainer": "Sam Washburn",
+      "websiteURL": "https://github.com/samw3/attiny",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "attiny13",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "attiny",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/damellis/attiny/archive/702aa287455f7e052cf94fd4949398fec0ef21b8.zip",
+          "archiveFileName": "702aa287455f7e052cf94fd4949398fec0ef21b8.zip",
+          "checksum": "SHA-256:bfffa4a700e42ae993895f5eea22bc369ba5ac3ea36eca18ac5f72a05bb60ab5",
+          "size": "5005",
+          "boards": [
+            {"name": "ATtiny13"},
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
