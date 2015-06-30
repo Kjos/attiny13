@@ -30,7 +30,7 @@
 
 #include <avr/pgmspace.h>
 
-// ATMEL ATTINY45 / ARDUINO
+// ATMEL ATTINY13 / ARDUINO
 //
 //                  +-\/-+
 // Ain0 (D 5) PB5  1|    |8  Vcc
@@ -62,7 +62,7 @@ void initVariant()
 
 // these arrays map port names (e.g. port B) to the
 // appropriate addresses for various functions (e.g. reading
-// and writing) tiny45 only port B 
+// and writing) tiny45 only port B
 const uint16_t PROGMEM port_to_mode_PGM[] = {
 	NOT_A_PORT,
 	NOT_A_PORT,
@@ -86,7 +86,7 @@ const uint8_t PROGMEM digital_pin_to_port_PGM[] = {
 	PB,
 	PB,
 	PB,
-	PB, 
+	PB,
 	PB, // 5
 	PB, // A0
 	PB,
