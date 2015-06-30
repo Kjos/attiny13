@@ -17,12 +17,12 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/damellis/attiny/archive/702aa287455f7e052cf94fd4949398fec0ef21b8.zip",
-          "archiveFileName": "702aa287455f7e052cf94fd4949398fec0ef21b8.zip",
-          "checksum": "SHA-256:bfffa4a700e42ae993895f5eea22bc369ba5ac3ea36eca18ac5f72a05bb60ab5",
-          "size": "5005",
+          "url": "https://github.com/samw3/attiny13/blob/master/attiny13.zip?raw=true",
+          "archiveFileName": "attiny13.zip",
+          "checksum": "SHA-256:321febd361ffd59001971c00de95281096edf8431945dcd421b2a286977022dc",
+          "size": "2711",
           "boards": [
-            {"name": "ATtiny13"},
+            {"name": "ATtiny13"}
           ],
           "toolsDependencies": [
             {
